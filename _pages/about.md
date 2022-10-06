@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student working under the supervision of [Dr. Michael Brannan](https://www.math.uwaterloo.ca/~m2branna/) in the Department of Pure Mathematics at the University of Waterloo. I am enrolled in the Quantum Information stream of the PhD - Pure Mathematics program, which is offered in collaboration with the Institute for Quantum Computing at the University of Waterloo.
+I am a PhD student working under the supervision of [Dr. Michael Brannan](https://www.math.uwaterloo.ca/~m2branna/) in the Department of Pure Mathematics at the University of Waterloo. I am enrolled in the Quantum Information stream of the PhD program, which is offered in collaboration with the Institute for Quantum Computing at the University of Waterloo.
 
 **Education:**
 * MSc - Mathematics (2022), Carleton University, Ottawa, ON.
