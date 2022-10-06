@@ -10,3 +10,5 @@ redirect_from:
 
 I am a PhD student working under the supervision of [Dr. Michael Brannan](https://www.math.uwaterloo.ca/~m2branna/) in the Pure Mathematics department at the University of Waterloo. 
 
+I am interested in operator algebras, quantum information theory, and the interactions between these fields.  
+
