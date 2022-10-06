@@ -84,7 +84,7 @@ author:
   avatar           : "headshot.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Waterloo, ON"
-  employer         : "University of Waterloo"
+  employer         : "https://uwaterloo.ca/pure-mathematics/about/people/a2gow"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
