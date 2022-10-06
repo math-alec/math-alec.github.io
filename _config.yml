@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alec Gow"
   avatar           : "headshot.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Waterloo, ON"
-  employer         : "https://uwaterloo.ca/pure-mathematics/about/people/a2gow"
+  bio              : "PhD Student in the Pure Mathematics - Quantum Information program at the University of Waterloo."
+  location         : "Kitchener, ON"
+  employer         : #
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
