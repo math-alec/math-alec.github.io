@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student working under the supervision of [Dr. Michael Brannan](https://www.math.uwaterloo.ca/~m2branna/) in the Department of Pure Mathematics at the University of Waterloo. I am enrolled in the Quantum Information stream of the PhD program, which is offered in collaboration with the Institute for Quantum Computing at the University of Waterloo.
+I am currently a PhD student in [Pure Mathematics - Quantum Information](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/pure-mathematics-quantum-information-doctor-philosophy-phd), working under the supervision of [Dr. Michael Brannan](https://www.math.uwaterloo.ca/~m2branna/). This proram is offered collaboratively between my home department, the Department of Pure Mathematics, and the Institute for Quantum Computing at the University of Waterloo. I am on track to complete my degree requirements, including my thesis defence, in April 2027. 
 
 I completed my MSc. in 2022 at Carleton University in Ottawa, ON under the co-supervision of [Dr. Jason Crann](https://sites.google.com/site/jaycrannmath/home) and [Dr. Charles Starling](https://people.math.carleton.ca/~cstar/).
 
