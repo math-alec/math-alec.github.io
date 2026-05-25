@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Alec Gow"
-  avatar           : "headshot.jpeg"
+  avatar           : #"headshot.jpeg"
   bio              : "PhD Student in the Pure Mathematics - Quantum Information program at the University of Waterloo."
-  location         : "Kitchener, ON"
+  location         : "Region of Waterloo, ON"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
