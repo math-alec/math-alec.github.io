@@ -1,16 +1,20 @@
-___
+---
 layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-#{% if site.talkmap_link == true %}
+{% include base_path %}
 
-#<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+Education
+======
+* BMath (Honours) - Mathematics (2020), Carleton University, Ottawa, ON.
+  * Minor in Computer Science
+  * Honours Project: Security of the BB84 Quantum Key Distribution Protocol
+  * Supervised by [Dr. Jason Crann](https://sites.google.com/site/jaycrannmath/home)
 
-#{% endif %}
-
-#{% for post in site.talks reversed %}
- # {% include archive-single-talk.html %}
-#{% endfor %}
+* MSc - Mathematics (2022), Carleton University, Ottawa, ON.
+  * Thesis: Tensor Networks for Operator-Algebraic Gauge Theories
+  * Supervised by [Dr. Jason Crann](https://sites.google.com/site/jaycrannmath/home) and [Dr. Charles Starling](https://people.math.carleton.ca/~cstar/)
+  
