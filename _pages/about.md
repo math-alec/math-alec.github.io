@@ -15,4 +15,4 @@ I am also currently on the job market. I am looking for a postdoctoral position 
 Previously, I completed my MSc. in Mathematics in 2022 at Carleton University in Ottawa, ON under the co-supervision of [Dr. Jason Crann](https://sites.google.com/site/jaycrannmath/home) and [Dr. Charles Starling](https://people.math.carleton.ca/~cstar/).
 
 
-**Research Interests:** operator algebras, operator structures, quantum information, and their various interactions.
+**Research Interests:** operator algebras, quantum information, quantum groups, and their various interactions.
